@@ -1,7 +1,7 @@
 # CustomAlertDialog
 # Creating Dialog with Custom Layout in Android
 
-# About Dialog in Android
+# <h3>About Dialog in Android</h3>
 A dialog is a small window that prompts the user to make a decision or enter additional information. A dialog does not fill the screen and is normally used for modal events that require users to take an action before they can proceed.
 
 
