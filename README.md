@@ -3,7 +3,9 @@
 In this tutorial, Dialog is implemented with the custom layout.
 
 **About Dialog in Android**<br/>
-A dialog is a small window that prompts the user to make a decision or enter additional information. A dialog does not fill the screen and is normally used for modal events that require users to take an action before they can proceed.
+
+A dialog is a small window that prompts the user to make a decision or enter additional information. A dialog does not fill the screen and is normally used for modal events that require users to take an action before they can proceed.<br/>
+
 
 
 
